@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DecoratorsTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-05-26T06:22:07" hostname="MacBook-Air.lan" time="0.151">
+  <properties/>
+  <testcase name="decorateWith should work correctly with an object and extension method()" classname="DecoratorsTest" time="0.133"/>
+  <testcase name="decorateWith should work correctly with multiple String decorators()" classname="DecoratorsTest" time="0.003"/>
+  <testcase name="decorateWith should work correctly with a single String decorator()" classname="DecoratorsTest" time="0.002"/>
+  <testcase name="decorateWith should work correctly with an object()" classname="DecoratorsTest" time="0.005"/>
+  <testcase name="decorateWith should work correctly with a single Int decorator()" classname="DecoratorsTest" time="0.002"/>
+  <system-out><![CDATA[====
+SomeData(id=5, name=aaa)
+----
+====
+<b><i>decorated</i></b>
+----
+====
+<i>decorated</i>
+----
+====
+SomeData(id=5, name=aaa)
+----
+====
+2
+----
+====
+0
+----
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

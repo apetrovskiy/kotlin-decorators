@@ -1,0 +1,1 @@
+/Users/alexanderpetrovskiy/projects/Java/kotlin-decorators/build/classes/kotlin/main/DecoratorsKt$decorateWith$resultCollection$1$1.class:/Users/alexanderpetrovskiy/projects/Java/kotlin-decorators/build/classes/kotlin/main/DecoratorsKt.class:/Users/alexanderpetrovskiy/projects/Java/kotlin-decorators/build/classes/kotlin/main/SomeData.class
